@@ -19,7 +19,7 @@ locate the directory using
 
 and install the dependencies
 ```
-    yarn
+yarn
 ```
 
 ### Prerequisites
