@@ -1,4 +1,6 @@
-[submodule "https://github.com/eloraa/labela-client"]
-	url = client
-[submodule "https://github.com/eloraa/labela-server"]
-	url = server
+[submodule "client"]
+	path = client
+	url = https://github.com/eloraa/labela-client
+[submodule "server"]
+	path = server
+	url = https://github.com/eloraa/labela-server
